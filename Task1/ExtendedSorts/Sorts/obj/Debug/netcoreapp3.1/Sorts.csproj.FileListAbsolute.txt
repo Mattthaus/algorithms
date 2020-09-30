@@ -1,0 +1,50 @@
+C:/Users/User/Dropbox/University/Algorithms/Sorts/Sorts/bin/Debug/netcoreapp3.1/Sorts.exe
+C:/Users/User/Dropbox/University/Algorithms/Sorts/Sorts/bin/Debug/netcoreapp3.1/Sorts.deps.json
+C:/Users/User/Dropbox/University/Algorithms/Sorts/Sorts/bin/Debug/netcoreapp3.1/Sorts.runtimeconfig.json
+C:/Users/User/Dropbox/University/Algorithms/Sorts/Sorts/bin/Debug/netcoreapp3.1/Sorts.runtimeconfig.dev.json
+C:/Users/User/Dropbox/University/Algorithms/Sorts/Sorts/bin/Debug/netcoreapp3.1/Sorts.dll
+C:/Users/User/Dropbox/University/Algorithms/Sorts/Sorts/bin/Debug/netcoreapp3.1/Sorts.pdb
+C:/Users/User/Dropbox/University/Algorithms/Sorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.csprojAssemblyReference.cache
+C:/Users/User/Dropbox/University/Algorithms/Sorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.AssemblyInfoInputs.cache
+C:/Users/User/Dropbox/University/Algorithms/Sorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.AssemblyInfo.cs
+C:/Users/User/Dropbox/University/Algorithms/Sorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.csproj.CoreCompileInputs.cache
+C:/Users/User/Dropbox/University/Algorithms/Sorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.dll
+C:/Users/User/Dropbox/University/Algorithms/Sorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.pdb
+C:/Users/User/Dropbox/University/Algorithms/Sorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.genruntimeconfig.cache
+C:/Users/User/Dropbox/University/Algorithms/ExtendedSorts/Sorts/bin/Debug/netcoreapp3.1/Sorts.exe
+C:/Users/User/Dropbox/University/Algorithms/ExtendedSorts/Sorts/bin/Debug/netcoreapp3.1/Sorts.deps.json
+C:/Users/User/Dropbox/University/Algorithms/ExtendedSorts/Sorts/bin/Debug/netcoreapp3.1/Sorts.runtimeconfig.json
+C:/Users/User/Dropbox/University/Algorithms/ExtendedSorts/Sorts/bin/Debug/netcoreapp3.1/Sorts.runtimeconfig.dev.json
+C:/Users/User/Dropbox/University/Algorithms/ExtendedSorts/Sorts/bin/Debug/netcoreapp3.1/Sorts.dll
+C:/Users/User/Dropbox/University/Algorithms/ExtendedSorts/Sorts/bin/Debug/netcoreapp3.1/Sorts.pdb
+C:/Users/User/Dropbox/University/Algorithms/ExtendedSorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.csprojAssemblyReference.cache
+C:/Users/User/Dropbox/University/Algorithms/ExtendedSorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.AssemblyInfoInputs.cache
+C:/Users/User/Dropbox/University/Algorithms/ExtendedSorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.AssemblyInfo.cs
+C:/Users/User/Dropbox/University/Algorithms/ExtendedSorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.csproj.CoreCompileInputs.cache
+C:/Users/User/Dropbox/University/Algorithms/ExtendedSorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.dll
+C:/Users/User/Dropbox/University/Algorithms/ExtendedSorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.pdb
+C:/Users/User/Dropbox/University/Algorithms/ExtendedSorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.genruntimeconfig.cache
+/Users/mathew/Downloads/ExtendedSorts/Sorts/bin/Debug/netcoreapp3.1/Sorts.deps.json
+/Users/mathew/Downloads/ExtendedSorts/Sorts/bin/Debug/netcoreapp3.1/Sorts.runtimeconfig.json
+/Users/mathew/Downloads/ExtendedSorts/Sorts/bin/Debug/netcoreapp3.1/Sorts.runtimeconfig.dev.json
+/Users/mathew/Downloads/ExtendedSorts/Sorts/bin/Debug/netcoreapp3.1/Sorts.dll
+/Users/mathew/Downloads/ExtendedSorts/Sorts/bin/Debug/netcoreapp3.1/Sorts.pdb
+/Users/mathew/Downloads/ExtendedSorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.csprojAssemblyReference.cache
+/Users/mathew/Downloads/ExtendedSorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.AssemblyInfoInputs.cache
+/Users/mathew/Downloads/ExtendedSorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.AssemblyInfo.cs
+/Users/mathew/Downloads/ExtendedSorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.csproj.CoreCompileInputs.cache
+/Users/mathew/Downloads/ExtendedSorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.dll
+/Users/mathew/Downloads/ExtendedSorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.pdb
+/Users/mathew/Downloads/ExtendedSorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.genruntimeconfig.cache
+/Users/mathew/Desktop/Study/Алгоритмы/Задание 1/Task1/ExtendedSorts/Sorts/bin/Debug/netcoreapp3.1/Sorts.deps.json
+/Users/mathew/Desktop/Study/Алгоритмы/Задание 1/Task1/ExtendedSorts/Sorts/bin/Debug/netcoreapp3.1/Sorts.runtimeconfig.json
+/Users/mathew/Desktop/Study/Алгоритмы/Задание 1/Task1/ExtendedSorts/Sorts/bin/Debug/netcoreapp3.1/Sorts.runtimeconfig.dev.json
+/Users/mathew/Desktop/Study/Алгоритмы/Задание 1/Task1/ExtendedSorts/Sorts/bin/Debug/netcoreapp3.1/Sorts.dll
+/Users/mathew/Desktop/Study/Алгоритмы/Задание 1/Task1/ExtendedSorts/Sorts/bin/Debug/netcoreapp3.1/Sorts.pdb
+/Users/mathew/Desktop/Study/Алгоритмы/Задание 1/Task1/ExtendedSorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.csprojAssemblyReference.cache
+/Users/mathew/Desktop/Study/Алгоритмы/Задание 1/Task1/ExtendedSorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.AssemblyInfoInputs.cache
+/Users/mathew/Desktop/Study/Алгоритмы/Задание 1/Task1/ExtendedSorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.AssemblyInfo.cs
+/Users/mathew/Desktop/Study/Алгоритмы/Задание 1/Task1/ExtendedSorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.csproj.CoreCompileInputs.cache
+/Users/mathew/Desktop/Study/Алгоритмы/Задание 1/Task1/ExtendedSorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.dll
+/Users/mathew/Desktop/Study/Алгоритмы/Задание 1/Task1/ExtendedSorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.pdb
+/Users/mathew/Desktop/Study/Алгоритмы/Задание 1/Task1/ExtendedSorts/Sorts/obj/Debug/netcoreapp3.1/Sorts.genruntimeconfig.cache
