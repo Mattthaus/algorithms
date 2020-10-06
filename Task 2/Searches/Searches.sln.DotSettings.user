@@ -1,0 +1,18 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=17fa6eaf_002D94d4_002D47e4_002Dbba5_002Dd4744c682328/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="LinearSearchTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::E4C4365B-40FD-4ED9-9FDD-0DFB354A9CF1::.NETCoreApp,Version=v3.1::Searches.Tests.LinearSearchTests.LinearSearchTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9028f7ee_002D12dc_002D4234_002Da197_002D3b77aab4b866/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="InterpolationSearchTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Solution /&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=dc644ba0_002D9d1d_002D4f21_002Dbc96_002D0f167d686c80/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="LinearSearchTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::E4C4365B-40FD-4ED9-9FDD-0DFB354A9CF1::.NETCoreApp,Version=v3.1::Searches.Tests.LinearSearchTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	
+	</wpf:ResourceDictionary>

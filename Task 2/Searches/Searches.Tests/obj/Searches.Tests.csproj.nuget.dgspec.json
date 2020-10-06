@@ -1,0 +1,126 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mathew/Desktop/Study/Алгоритмы/Task 2/Searches/Searches.Tests/Searches.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/mathew/Desktop/Study/Алгоритмы/Task 2/Searches/Searches.Tests/Searches.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mathew/Desktop/Study/Алгоритмы/Task 2/Searches/Searches.Tests/Searches.Tests.csproj",
+        "projectName": "Searches.Tests",
+        "projectPath": "/Users/mathew/Desktop/Study/Алгоритмы/Task 2/Searches/Searches.Tests/Searches.Tests.csproj",
+        "packagesPath": "/Users/mathew/.nuget/packages/",
+        "outputPath": "/Users/mathew/Desktop/Study/Алгоритмы/Task 2/Searches/Searches.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mathew/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/mathew/Desktop/Study/Алгоритмы/Task 2/Searches/Searches/Searches.csproj": {
+                "projectPath": "/Users/mathew/Desktop/Study/Алгоритмы/Task 2/Searches/Searches/Searches.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mathew/Desktop/Study/Алгоритмы/Task 2/Searches/Searches/Searches.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mathew/Desktop/Study/Алгоритмы/Task 2/Searches/Searches/Searches.csproj",
+        "projectName": "Searches",
+        "projectPath": "/Users/mathew/Desktop/Study/Алгоритмы/Task 2/Searches/Searches/Searches.csproj",
+        "packagesPath": "/Users/mathew/.nuget/packages/",
+        "outputPath": "/Users/mathew/Desktop/Study/Алгоритмы/Task 2/Searches/Searches/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mathew/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
