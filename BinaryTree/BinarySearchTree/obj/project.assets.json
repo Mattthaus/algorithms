@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mathew/Downloads/BinarySearchTree/BinarySearchTree/BinarySearchTree.csproj",
+      "projectUniqueName": "/Users/mathew/Downloads/BinaryTree/BinarySearchTree/BinarySearchTree.csproj",
       "projectName": "BinarySearchTree",
-      "projectPath": "/Users/mathew/Downloads/BinarySearchTree/BinarySearchTree/BinarySearchTree.csproj",
+      "projectPath": "/Users/mathew/Downloads/BinaryTree/BinarySearchTree/BinarySearchTree.csproj",
       "packagesPath": "/Users/mathew/.nuget/packages/",
-      "outputPath": "/Users/mathew/Downloads/BinarySearchTree/BinarySearchTree/obj/",
+      "outputPath": "/Users/mathew/Downloads/BinaryTree/BinarySearchTree/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/mathew/.nuget/NuGet/NuGet.Config"

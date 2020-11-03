@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lpC/FNQQG9OO1/e2Xdg0LxDfICb4nfH9gOUzoNWdSg1e5SkvwaE9Kfm6VXKX7nIG5AvanhdQa3aH7euzlAfTZg==",
+  "dgSpecHash": "Hh0pcUDSz7L2I0EQLs5fUNyIY3e+iwOT8rQD5dOh/EliNjYYkw3KsBJqjeCqTNF1EJjEcxPpk4hIb/qm9eKdyQ==",
   "success": true,
-  "projectFilePath": "/Users/mathew/Downloads/BinarySearchTree/BinarySearchTree/BinarySearchTree.csproj",
+  "projectFilePath": "/Users/mathew/Downloads/BinaryTree/BinarySearchTree/BinarySearchTree.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

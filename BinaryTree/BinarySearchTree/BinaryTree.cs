@@ -165,18 +165,25 @@ namespace BinarySearchTree
             TreePrinter.PrintNode(_head);
         }
 
-        public List<int> GetAscendingSequence()
+        public List<int> AscendingSequence()
         {
             List<int> ascendingList = new List<int>();
             InAscendingOrderWalk(_head, ascendingList);
             return ascendingList;
         }
 
-        public List<int> GetDescendingSequence()
+        public List<int> DescendingSequence()
         {
             List<int> descendingList = new List<int>();
             InDescendingOrderWalk(_head, descendingList);
             return descendingList;
+        }
+
+        public List<int> EquivalentSequence()
+        {
+            List<int> equivalentList = new List<int>();
+            InSourceOrderWalk(_head, equivalentList);
+            return equivalentList;
         }
 
         private void InAscendingOrderWalk(BinaryTreeNode node, List<int> ascendingList)
@@ -197,6 +204,41 @@ namespace BinarySearchTree
                 descendingList.Add(node.Value);
                 InDescendingOrderWalk(node.LeftNode, descendingList);
             }
+        }
+
+        private void InSourceOrderWalk(BinaryTreeNode node, List<int> equivalentList)
+        {
+            if (node != null)
+            {
+                equivalentList.Add(node.Value);
+                InSourceOrderWalk(node.LeftNode, equivalentList);
+                InSourceOrderWalk(node.RightNode, equivalentList);
+            }
+        }
+
+        public List<int> Across()
+        {
+            List<int> finalList = new List<int>();
+            Queue<BinaryTreeNode> workingQueue = new Queue<BinaryTreeNode>();
+            workingQueue.Enqueue(_head);
+
+            while (workingQueue.Count != 0)
+            {
+                
+                if (workingQueue.Peek().LeftNode != null)
+                {
+                    workingQueue.Enqueue(workingQueue.Peek().LeftNode);
+                }
+
+                if (workingQueue.Peek().RightNode != null)
+                {
+                    workingQueue.Enqueue(workingQueue.Peek().RightNode);
+                }
+                
+                finalList.Add(workingQueue.Dequeue().Value);
+            }
+
+            return finalList;
         }
 
         public int FindKthMinimalElement(int k, BinaryTreeNode headOfSubtree = null)
