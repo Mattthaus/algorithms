@@ -1,0 +1,12 @@
+/Users/mathew/Desktop/Euler/Euler/bin/Debug/netcoreapp3.1/Euler.deps.json
+/Users/mathew/Desktop/Euler/Euler/bin/Debug/netcoreapp3.1/Euler.runtimeconfig.json
+/Users/mathew/Desktop/Euler/Euler/bin/Debug/netcoreapp3.1/Euler.runtimeconfig.dev.json
+/Users/mathew/Desktop/Euler/Euler/bin/Debug/netcoreapp3.1/Euler.dll
+/Users/mathew/Desktop/Euler/Euler/bin/Debug/netcoreapp3.1/Euler.pdb
+/Users/mathew/Desktop/Euler/Euler/obj/Debug/netcoreapp3.1/Euler.csprojAssemblyReference.cache
+/Users/mathew/Desktop/Euler/Euler/obj/Debug/netcoreapp3.1/Euler.AssemblyInfoInputs.cache
+/Users/mathew/Desktop/Euler/Euler/obj/Debug/netcoreapp3.1/Euler.AssemblyInfo.cs
+/Users/mathew/Desktop/Euler/Euler/obj/Debug/netcoreapp3.1/Euler.csproj.CoreCompileInputs.cache
+/Users/mathew/Desktop/Euler/Euler/obj/Debug/netcoreapp3.1/Euler.dll
+/Users/mathew/Desktop/Euler/Euler/obj/Debug/netcoreapp3.1/Euler.pdb
+/Users/mathew/Desktop/Euler/Euler/obj/Debug/netcoreapp3.1/Euler.genruntimeconfig.cache
