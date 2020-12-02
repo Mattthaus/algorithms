@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/mathew/Desktop/Study/algorithms/Euler/Euler/Euler.csproj": {}
+    "/Users/mathew/Desktop/Study/algorithms/SpanningTree/SpanningTree/SpanningTree.csproj": {}
   },
   "projects": {
-    "/Users/mathew/Desktop/Study/algorithms/Euler/Euler/Euler.csproj": {
+    "/Users/mathew/Desktop/Study/algorithms/SpanningTree/SpanningTree/SpanningTree.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/mathew/Desktop/Study/algorithms/Euler/Euler/Euler.csproj",
-        "projectName": "Euler",
-        "projectPath": "/Users/mathew/Desktop/Study/algorithms/Euler/Euler/Euler.csproj",
+        "projectUniqueName": "/Users/mathew/Desktop/Study/algorithms/SpanningTree/SpanningTree/SpanningTree.csproj",
+        "projectName": "SpanningTree",
+        "projectPath": "/Users/mathew/Desktop/Study/algorithms/SpanningTree/SpanningTree/SpanningTree.csproj",
         "packagesPath": "/Users/mathew/.nuget/packages/",
-        "outputPath": "/Users/mathew/Desktop/Study/algorithms/Euler/Euler/obj/",
+        "outputPath": "/Users/mathew/Desktop/Study/algorithms/SpanningTree/SpanningTree/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/mathew/.nuget/NuGet/NuGet.Config"

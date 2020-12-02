@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/mathew/Desktop/Study/algorithms/Euler/Euler/Euler.csproj",
-    "projectName": "Euler",
-    "projectPath": "/Users/mathew/Desktop/Study/algorithms/Euler/Euler/Euler.csproj",
-    "outputPath": "/Users/mathew/Desktop/Study/algorithms/Euler/Euler/obj/",
+    "projectUniqueName": "/Users/mathew/Desktop/Study/algorithms/SpanningTree/SpanningTree/SpanningTree.csproj",
+    "projectName": "SpanningTree",
+    "projectPath": "/Users/mathew/Desktop/Study/algorithms/SpanningTree/SpanningTree/SpanningTree.csproj",
+    "outputPath": "/Users/mathew/Desktop/Study/algorithms/SpanningTree/SpanningTree/obj/",
     "projectStyle": "PackageReference",
     "originalTargetFrameworks": [
       "netcoreapp3.1"
